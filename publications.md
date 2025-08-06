@@ -2,10 +2,11 @@
 
 ## WoS and Scopus Publications
 
-1. Shvetsov, A., Darmoroz, D. D., Vasilev, A., Orlova, T., **Lobanov, I. S.**, Rafayelyan, M. Light-induced isotropic pen for generation of topological solitons and hopfion-toron transition in frustrated chiral nematic films. *Chaos, Solitons and Fractals* **(in press)** (2025). [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=5287802](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5287802)
+1. Shvetsov, A., Darmoroz, D. D., Vasilev, A., Orlova, T., **Lobanov, I. S.**, Rafayelyan, M. Light-induced isotropic pen for generation of topological solitons and hopfion-toron transition in frustrated chiral nematic films. *Chaos, Solitons and Fractals* **(in press)** (2025). 
+[10.1016/j.chaos.2025.116905](https://www.sciencedirect.com/science/article/pii/S096007792500918X)
 [WoS, Scopus; IF 5.6, SJR 1.184, Q1]
 
-2. Petrov, N. V., Orlova, T., **Lobanov, I. S.**, Aksenova, E. V., Uzdin, V. M., Kiselev, A. D. Polarization-controlled orbital angular momentum of light passing through a cholesteric spherulite. *Opt. Lett.* **50**, 15 (2025).
+2. Petrov, N. V., Orlova, T., **Lobanov, I. S.**, Aksenova, E. V., Uzdin, V. M., Kiselev, A. D. Polarization-controlled orbital angular momentum of light passing through a cholesteric spherulite. *Opt. Lett.* **50** (16), 4866-4869 (2025). [10.1364/OL.561669](https://doi.org/10.1364/OL.561669)
 [WoS, Scopus; IF 3.3, SJR 1.788, Q1]
 
 3. Potkina, M. N., **Lobanov, I. S.** Optimality of linear vacancy defect for skyrmion nucleation. *Nanosyst.: Phys. Chem. Math.* **16**, 317–324 (2025). [10.17586/2220-8054-2025-16-3-317-324](https://doi.org/10.17586/2220-8054-2025-16-3-317-324)

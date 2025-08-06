@@ -2,7 +2,7 @@
 
 **Name:** Igor Lobanov\
 **Date of Birth:** July 25, 1980\
-**Place of Birth:** Saransk, USSR (now Russian \Federation)
+**Place of Birth:** Saransk, USSR (now Russian Federation)\
 **Email:** [lobanov.igor@gmail.com](mailto:lobanov.igor@gmail.com)\
 **Mailing Address:** Udelny 35, Apt. 25, 194214 Saint Petersburg, Russia
 
@@ -100,7 +100,7 @@
 - **2013**: Software Registration No. 2013617827, August 23, 2013: Numerical Modeling Suite for Nanoribbons (QGNanoribbon)
 - **2011**: Software Registration No. 2011617733, October 5, 2011: QGraph software for spectral and transport properties of quantum graphs
 
-## Most Cited Publications
+## Most Cited [Publications](publications.md)
 
 1. Bessarab, P. F., Muller, G. P., **Lobanov, I. S.**, Rybakov, F. N., Kiselev, N. S., Jónsson, H., Uzdin, V. M., Blügel, S., Bergqvist, L., Delin, A. Lifetime of racetrack skyrmions. *Sci. Rep.* **8**, 3433 (2018).
 [10.1038/s41598-018-21623-3](https://doi.org/10.1038/s41598-018-21623-3)
@@ -129,6 +129,7 @@ _39 citations._
 [10.1063/1.1647693](https://doi.org/10.1063/1.1647693)
 _30 cites._ 
 
+[Complete publications list](publications.md)
 
 ## Conferences and Talks
 
