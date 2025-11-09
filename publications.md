@@ -2,161 +2,160 @@
 
 ## WoS and Scopus Publications
 
-1. Shvetsov, A., Darmoroz, D. D., Vasilev, A., Orlova, T., **Lobanov, I. S.**, Rafayelyan, M. Light-induced isotropic pen for generation of topological solitons and hopfion-toron transition in frustrated chiral nematic films. *Chaos, Solitons and Fractals* **(in press)** (2025). 
+1. Shvetsov, A., Darmoroz, D. D., Vasilev, A., Orlova, T., **Lobanov, I. S.**, Rafayelyan, M. Light-induced isotropic pen for generation of topological solitons and hopfion-toron transition in frustrated chiral nematic films. *Chaos, Solitons and Fractals* 199 (3), 116905 (2025). 
 [10.1016/j.chaos.2025.116905](https://www.sciencedirect.com/science/article/pii/S096007792500918X)
 [WoS, Scopus; IF 5.6, SJR 1.184, Q1]
 
-2. Petrov, N. V., Orlova, T., **Lobanov, I. S.**, Aksenova, E. V., Uzdin, V. M., Kiselev, A. D. Polarization-controlled orbital angular momentum of light passing through a cholesteric spherulite. *Opt. Lett.* **50** (16), 4866-4869 (2025). [10.1364/OL.561669](https://doi.org/10.1364/OL.561669)
+1. Petrov, N. V., Orlova, T., **Lobanov, I. S.**, Aksenova, E. V., Uzdin, V. M., Kiselev, A. D. Polarization-controlled orbital angular momentum of light passing through a cholesteric spherulite. *Opt. Lett.* **50** (16), 4866-4869 (2025). [10.1364/OL.561669](https://doi.org/10.1364/OL.561669)
 [WoS, Scopus; IF 3.3, SJR 1.788, Q1]
 
-3. Potkina, M. N., **Lobanov, I. S.** Optimality of linear vacancy defect for skyrmion nucleation. *Nanosyst.: Phys. Chem. Math.* **16**, 317–324 (2025). [10.17586/2220-8054-2025-16-3-317-324](https://doi.org/10.17586/2220-8054-2025-16-3-317-324)
+1. Potkina, M. N., **Lobanov, I. S.** Optimality of linear vacancy defect for skyrmion nucleation. *Nanosyst.: Phys. Chem. Math.* **16**, 317–324 (2025). [10.17586/2220-8054-2025-16-3-317-324](https://doi.org/10.17586/2220-8054-2025-16-3-317-324)
 [WoS, Scopus; IF 0.84, SJR 0.334, Q3]
 
-4. Chichay, K. A., **Lobanov, I. S.**, Uzdin, V. M. Magnetic structure of domain walls in stressed cylindrical wires. *Nanosyst.: Phys. Chem. Math.* **16**, 325–332 (2025). [10.17586/2220-8054-2025-16-3-325-332](https://doi.org/10.17586/2220-8054-2025-16-3-325-332)
+1. Chichay, K. A., **Lobanov, I. S.**, Uzdin, V. M. Magnetic structure of domain walls in stressed cylindrical wires. *Nanosyst.: Phys. Chem. Math.* **16**, 325–332 (2025). [10.17586/2220-8054-2025-16-3-325-332](https://doi.org/10.17586/2220-8054-2025-16-3-325-332)
 [WoS, Scopus; IF 0.84, SJR 0.334, Q3]
 
-5. Miranda, I. P., Kwiatkowski, G. J., Holmqvist, C. M., **Lobanov, I. S.**, et al. Optimal field-free magnetization switching via spin-orbit torque on the surface of a topological insulator. *npj Spintronics* **3**, 21 (2025). [10.1038/s44306-025-00085-0](https://doi.org/10.1038/s44306-025-00085-0)
+1. Miranda, I. P., Kwiatkowski, G. J., Holmqvist, C. M., **Lobanov, I. S.**, et al. Optimal field-free magnetization switching via spin-orbit torque on the surface of a topological insulator. *npj Spintronics* **3**, 21 (2025). [10.1038/s44306-025-00085-0](https://doi.org/10.1038/s44306-025-00085-0)
 [WoS, Scopus; New journal - metrics pending, likely Q1]
 
-6. Shalev, A., Ladutenko, K., **Lobanov, I. S.**, Yannopapas, V., Moroz, A. Multem 3: An updated and revised version of the program for transmission and band calculations of photonic crystals. *Comput. Phys. Commun.* **301**, 109218 (2025). [10.1016/j.cpc.2024.109218](https://doi.org/10.1016/j.cpc.2024.109218).
+1. Shalev, A., Ladutenko, K., **Lobanov, I. S.**, Yannopapas, V., Moroz, A. Multem 3: An updated and revised version of the program for transmission and band calculations of photonic crystals. *Comput. Phys. Commun.* **301**, 109218 (2025). [10.1016/j.cpc.2024.109218](https://doi.org/10.1016/j.cpc.2024.109218).
 [WoS, Scopus; IF 4.4, SJR 1.32, Q1]
 
-7. Lobanov, I. S., Uzdin, V. M. Dynamics of “breathing” skyrmions. *JETP Lett.* **119**, 768–774 (2024). [10.1134/S0021364024600794](https://doi.org/10.1134/S0021364024600794)
+1. Lobanov, I. S., Uzdin, V. M. Dynamics of “breathing” skyrmions. *JETP Lett.* **119**, 768–774 (2024). [10.1134/S0021364024600794](https://doi.org/10.1134/S0021364024600794)
 [WoS, Scopus; IF 1.40, SJR 0.327, Q3]
 
-8. Chichay, K. A., Lobanov, I. S., Uzdin, V. M. Structure of magnetic domain walls in cylindrical nano- and microwires with inhomogeneous anisotropy. *Nanosyst.: Phys. Chem. Math.* **15**, 55–59 (2024). [10.17586/2220-8054-2024-15-1-55-59](https://doi.org/10.17586/2220-8054-2024-15-1-55-59)
+1. Chichay, K. A., Lobanov, I. S., Uzdin, V. M. Structure of magnetic domain walls in cylindrical nano- and microwires with inhomogeneous anisotropy. *Nanosyst.: Phys. Chem. Math.* **15**, 55–59 (2024). [10.17586/2220-8054-2024-15-1-55-59](https://doi.org/10.17586/2220-8054-2024-15-1-55-59)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-9. Potkina, M. N., Lobanov, I. S. Nucleation of magnetic skyrmions at a notch. *Nanosyst.: Phys. Chem. Math.* **15**, 192–200 (2024). [10.17586/2220-8054-2024-15-2-192-200](https://doi.org/10.17586/2220-8054-2024-15-2-192-200)
+1. Potkina, M. N., Lobanov, I. S. Nucleation of magnetic skyrmions at a notch. *Nanosyst.: Phys. Chem. Math.* **15**, 192–200 (2024). [10.17586/2220-8054-2024-15-2-192-200](https://doi.org/10.17586/2220-8054-2024-15-2-192-200)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-10. Chichay, K. A., Lobanov, I. S., Uzdin, V. M. Stability and transformations of domain walls in cylindrical wires. *Nanosyst.: Phys. Chem. Math.* **15**, 332–339 (2024). [10.17586/2220-8054-2024-15-3-332-339](https://doi.org/10.17586/2220-8054-2024-15-3-332-339)
+1.  Chichay, K. A., Lobanov, I. S., Uzdin, V. M. Stability and transformations of domain walls in cylindrical wires. *Nanosyst.: Phys. Chem. Math.* **15**, 332–339 (2024). [10.17586/2220-8054-2024-15-3-332-339](https://doi.org/10.17586/2220-8054-2024-15-3-332-339)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-11. Potkina, M. N., Lobanov, I. S., Uzdin, V. M. Nucleation and collapse of magnetic topological solitons in external magnetic field. *Nanosyst.: Phys. Chem. Math.* **14**, 216–222 (2023). [10.17586/2220-8054-2023-14-2-216-222](https://doi.org/10.17586/2220-8054-2023-14-2-216-222)
+1.  Potkina, M. N., Lobanov, I. S., Uzdin, V. M. Nucleation and collapse of magnetic topological solitons in external magnetic field. *Nanosyst.: Phys. Chem. Math.* **14**, 216–222 (2023). [10.17586/2220-8054-2023-14-2-216-222](https://doi.org/10.17586/2220-8054-2023-14-2-216-222)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-12. Lobanov, I. S. Toward nanomagnetic implementation of energy-based machine learning. *Nanosyst.: Phys. Chem. Math.* **14**, 613–625 (2023). [10.17586/2220-8054-2023-14-6-613-625](https://doi.org/10.17586/2220-8054-2023-14-6-613-625)
+1.  Lobanov, I. S. Toward nanomagnetic implementation of energy-based machine learning. *Nanosyst.: Phys. Chem. Math.* **14**, 613–625 (2023). [10.17586/2220-8054-2023-14-6-613-625](https://doi.org/10.17586/2220-8054-2023-14-6-613-625)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-13. Shaban, P. S., **Lobanov, I. S.**, Uzdin, V. M., Iorsh, I. V. Skyrmion dynamics in moiré magnets. *Phys. Rev. B* **108**, 174440 (2023). [10.1103/PhysRevB.108.174440](https://doi.org/10.1103/PhysRevB.108.174440)
+1.  Shaban, P. S., **Lobanov, I. S.**, Uzdin, V. M., Iorsh, I. V. Skyrmion dynamics in moiré magnets. *Phys. Rev. B* **108**, 174440 (2023). [10.1103/PhysRevB.108.174440](https://doi.org/10.1103/PhysRevB.108.174440)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-14. Tambovtsev, I. M., **Lobanov, I. S.**, Kiselev, A. D., Uzdin, V. M. Pair interaction of localized topological structures in confined chiral media. *Phys. Rev. E* **108**, 024705 (2023). [10.1103/PhysRevE.108.024705](https://doi.org/10.1103/PhysRevE.108.024705)
+1.  Tambovtsev, I. M., **Lobanov, I. S.**, Kiselev, A. D., Uzdin, V. M. Pair interaction of localized topological structures in confined chiral media. *Phys. Rev. E* **108**, 024705 (2023). [10.1103/PhysRevE.108.024705](https://doi.org/10.1103/PhysRevE.108.024705)
 [WoS, Scopus; IF 2.7, SJR 0.819, Q1]
 
-15. Kuchkin, V. M., Kiselev, N. S., Rybakov, F. N., **Lobanov, I. S.**, Blügel, S., Uzdin, V. M. Heliknoton in a film of cubic chiral magnet. *Front. Phys.* **11**, 1201018 (2023). [10.3389/fphy.2023.1201018](https://doi.org/10.3389/fphy.2023.1201018)
+1.  Kuchkin, V. M., Kiselev, N. S., Rybakov, F. N., **Lobanov, I. S.**, Blügel, S., Uzdin, V. M. Heliknoton in a film of cubic chiral magnet. *Front. Phys.* **11**, 1201018 (2023). [10.3389/fphy.2023.1201018](https://doi.org/10.3389/fphy.2023.1201018)
 [WoS, Scopus; IF 2.10, SJR 0.493, Q2]
 
-16. Potkina, M. N., **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Stability of magnetic skyrmions: Systematic calculations of the effect of size from nanometer scale to microns. *Phys. Rev. B* **107**, 184414 (2023). [10.1103/PhysRevB.107.184414](https://doi.org/10.1103/PhysRevB.107.184414)
+1.  Potkina, M. N., **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Stability of magnetic skyrmions: Systematic calculations of the effect of size from nanometer scale to microns. *Phys. Rev. B* **107**, 184414 (2023). [10.1103/PhysRevB.107.184414](https://doi.org/10.1103/PhysRevB.107.184414)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-17. **Lobanov, I. S.**, Uzdin, V. M. Lifetime, collapse, and escape paths for hopfions in bulk magnets with competing exchange interactions. *Phys. Rev. B* **107**, 104405 (2023). [10.1103/PhysRevB.107.104405](https://doi.org/10.1103/PhysRevB.107.104405)
+1.  **Lobanov, I. S.**, Uzdin, V. M. Lifetime, collapse, and escape paths for hopfions in bulk magnets with competing exchange interactions. *Phys. Rev. B* **107**, 104405 (2023). [10.1103/PhysRevB.107.104405](https://doi.org/10.1103/PhysRevB.107.104405)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-18. Potkina, M. N., **Lobanov, I. S.**, Uzdin, V. M. Nucleation and collapse of magnetic topological solitons in external magnetic field. *Nanosyst.: Phys. Chem. Math.* **14**, 216–222 (2023). [10.17586/2220-8054-2023-14-2-216-222](http://dx.doi.org/10.17586/2220-8054-2023-14-2-216-222)
+1.  Potkina, M. N., **Lobanov, I. S.**, Uzdin, V. M. Nucleation and collapse of magnetic topological solitons in external magnetic field. *Nanosyst.: Phys. Chem. Math.* **14**, 216–222 (2023). [10.17586/2220-8054-2023-14-2-216-222](http://dx.doi.org/10.17586/2220-8054-2023-14-2-216-222)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-19. **Lobanov, I. S.** Spin Boltzmann machine. *Nanosyst.: Phys. Chem. Math.* **13**, 593–607 (2022). [10.17586/2220-8054-2022-13-6-593-607](https://doi.org/10.17586/2220-8054-2022-13-6-593-607)
+1.  **Lobanov, I. S.** Spin Boltzmann machine. *Nanosyst.: Phys. Chem. Math.* **13**, 593–607 (2022). [10.17586/2220-8054-2022-13-6-593-607](https://doi.org/10.17586/2220-8054-2022-13-6-593-607)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-20. Lobanov, I., Aksenova, E., Orlova, T., Darmoroz, D., Uzdin, V., Kiselev, A. D. Optical imaging and analytical design of localized topological structures in chiral liquid crystals. *Symmetry* **14**, 2476 (2022). [10.3390/sym14122476](https://doi.org/10.3390/sym14122476)
+1.  Lobanov, I., Aksenova, E., Orlova, T., Darmoroz, D., Uzdin, V., Kiselev, A. D. Optical imaging and analytical design of localized topological structures in chiral liquid crystals. *Symmetry* **14**, 2476 (2022). [10.3390/sym14122476](https://doi.org/10.3390/sym14122476)
 [WoS, Scopus; IF 0.96, SJR 0.493, Q3]
 
-21. Voronin, K. V., **Lobanov, I. S.**, Uzdin, V. M. Activation energy and mechanisms for skyrmion collapse in synthetic antiferromagnets. *JETP Lett.* **116**, 252–257 (2022). [10.31857/S123456782216008X](https://doi.org/10.31857/S123456782216008X)
-[WoS, Scopus; IF 1.40, SJR 0.327, Q3]
+1. Voronin, K. V., **Lobanov, I. S.**, Uzdin, V. M. Activation energy and mechanisms for skyrmion collapse in synthetic antiferromagnets. *Jetp Lett.* **116**, 240–245 (2022). [10.1134/S0021364022601361](https://doi.org/10.1134/S0021364022601361) [WoS, Scopus; IF 1.40, SJR 0.327, Q3]
 
-22. Potkina, M. N., **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Lifetime of skyrmions in discrete systems with infinitesimal lattice constant. *J. Magn. Magn. Mater.* **549**, 168974 (2022). [10.1016/j.jmmm.2021.168974](https://doi.org/10.1016/j.jmmm.2021.168974)
+1.  Potkina, M. N., **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Lifetime of skyrmions in discrete systems with infinitesimal lattice constant. *J. Magn. Magn. Mater.* **549**, 168974 (2022). [10.1016/j.jmmm.2021.168974](https://doi.org/10.1016/j.jmmm.2021.168974)
 [WoS, Scopus; IF 2.58, SJR 0.522, Q2]
 
-23. Vlasov, S. M., Kwiatkowski, G. J., **Lobanov, I. S.**, Uzdin, V. M., Bessarab, P. F. Optimal protocol for spin-orbit torque switching of a perpendicular nanomagnet. *Phys. Rev. B* **105**, 134404 (2022). [10.1103/PhysRevB.105.134404](https://doi.org/10.1103/PhysRevB.105.134404)
+1.  Vlasov, S. M., Kwiatkowski, G. J., **Lobanov, I. S.**, Uzdin, V. M., Bessarab, P. F. Optimal protocol for spin-orbit torque switching of a perpendicular nanomagnet. *Phys. Rev. B* **105**, 134404 (2022). [10.1103/PhysRevB.105.134404](https://doi.org/10.1103/PhysRevB.105.134404)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-24. Tambovtsev, I. M., Leonov, A. O., **Lobanov, I. S.**, Kiselev, A. D., Uzdin, V. M. Topological structures in chiral media: Effects of confined geometry. *Phys. Rev. E* **105**, 034701 (2022). [10.1103/PhysRevE.105.034701](https://doi.org/10.1103/PhysRevE.105.034701)
+1.  Tambovtsev, I. M., Leonov, A. O., **Lobanov, I. S.**, Kiselev, A. D., Uzdin, V. M. Topological structures in chiral media: Effects of confined geometry. *Phys. Rev. E* **105**, 034701 (2022). [10.1103/PhysRevE.105.034701](https://doi.org/10.1103/PhysRevE.105.034701)
 [WoS, Scopus; IF 2.7, SJR 0.819, Q1]
 
-25. **Lobanov, I. S.**, Uzdin, V. M. Lifetime of micron scale topological chiral magnetic states with atomic resolution. *Comput. Phys. Commun.* **269**, 108136 (2021).
+1.  **Lobanov, I. S.**, Uzdin, V. M. Lifetime of micron scale topological chiral magnetic states with atomic resolution. *Comput. Phys. Commun.* **269**, 108136 (2021). [10.1016/j.cpc.2021.108136](https://doi.org/10.1016/j.cpc.2021.108136)
 [WoS, Scopus; IF 4.717, SJR 1.312, Q1]
 
-26. **Lobanov, I. S.**, Potkina, M. N., Uzdin, V. M. Stability and lifetime of magnetic states in nano- and microstructures (mini-review). *JETP Lett.* **114**, 1–6 (2021).
-[WoS, Scopus; IF 1.40, SJR 0.327, Q3]
+1.  **Lobanov, I. S.**, Potkina, M. N., Uzdin, V. M. Stability and lifetime of magnetic states in nano- and microstructures (mini-review). *JETP Lett.* **114**, 1–6 (2021).
+[10.1134/S0021364021120109](https://doi.org/10.1134/S0021364021120109) [WoS, Scopus; IF 1.40, SJR 0.327, Q3]
 
-27. Lobanov, I. S., Trifanov, A. I., Trifanova, E. S., Pravdin, K. V., Moskalenko, M. A. Photon generation in resonator with time-dependent boundary conditions. *Nanosyst.: Phys. Chem. Math.* **12**, 73–80 (2021).
+1.  Lobanov, I. S., Trifanov, A. I., Trifanova, E. S., Pravdin, K. V., Moskalenko, M. A. Photon generation in resonator with time-dependent boundary conditions. *Nanosyst.: Phys. Chem. Math.* **12**, 73–80 (2021). [10.17586/2220-8054-2021-12-1-73-80](https://doi.org/10.17586/2220-8054-2021-12-1-73-80)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-28. Bushuev, K. R., **Lobanov, I. S.** Machine learning method for computation of optimal transitions in magnetic nanosystems. *Nanosyst.: Phys. Chem. Math.* **11**, 642–650 (2020).
+1.  Bushuev, K. R., **Lobanov, I. S.** Machine learning method for computation of optimal transitions in magnetic nanosystems. *Nanosyst.: Phys. Chem. Math.* **11**, 642–650 (2020). [10.17586/2220-8054-2020-11-6-642-650](https://doi.org/10.17586/2220-8054-2020-11-6-642-650)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-29. Leonov, A. O., Tambovtsev, I. M., **Lobanov, I. S.**, Uzdin, V. M. Stability of in-plane and out-of-plane chiral skyrmions in epitaxial MnSi(111)/Si(111) thin films: surface twists versus easy-plane anisotropy. *Phys. Rev. B* **102**, 174415 (2020). [https://doi.org/10.1103/PhysRevB.102.174415](https://doi.org/10.1103/PhysRevB.102.174415)
+1.  Leonov, A. O., Tambovtsev, I. M., **Lobanov, I. S.**, Uzdin, V. M. Stability of in-plane and out-of-plane chiral skyrmions in epitaxial MnSi(111)/Si(111) thin films: surface twists versus easy-plane anisotropy. *Phys. Rev. B* **102**, 174415 (2020). [10.1103/PhysRevB.102.174415](https://doi.org/10.1103/PhysRevB.102.174415)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-30. **Lobanov, I. S.**, Nikiforov, D. S., Popov, I. Y., et al. Model of time-dependent geometric graph for dynamical Casimir effect. *Indian J. Phys.* **94**, 1335–1343 (2020). [https://doi.org/10.1007/s12648-020-01866-5](https://doi.org/10.1007/s12648-020-01866-5)
+1.  **Lobanov, I. S.**, Nikiforov, D. S., Popov, I. Y., et al. Model of time-dependent geometric graph for dynamical Casimir effect. *Indian J. Phys.* **94**, 1335–1343 (2020). [10.1007/s12648-020-01866-5](https://doi.org/10.1007/s12648-020-01866-5)
 [WoS, Scopus; IF 1.78, SJR 0.317, Q3]
 
-31. Potkina, M. N., **Lobanov, I. S.**, Tretiakov, O. A., Jónsson, H., Uzdin, V. M. Stability of long-lived antiskyrmions in Mn-Pt-Sn material. *Phys. Rev. B* **102**, 134430 (2020). [10.1103/PhysRevB.102.134430](https://doi.org/10.1103/PhysRevB.102.134430)
+1.  Potkina, M. N., **Lobanov, I. S.**, Tretiakov, O. A., Jónsson, H., Uzdin, V. M. Stability of long-lived antiskyrmions in Mn-Pt-Sn material. *Phys. Rev. B* **102**, 134430 (2020). [10.1103/PhysRevB.102.134430](https://doi.org/10.1103/PhysRevB.102.134430)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-32. Moskalenko, M. A., **Lobanov, I. S.**, Uzdin, V. M. Demagnetizing fields in chiral magnetic structures. *Nanosyst.: Phys. Chem. Math.* **11**, 401–408 (2020).
+1.  Moskalenko, M. A., **Lobanov, I. S.**, Uzdin, V. M. Demagnetizing fields in chiral magnetic structures. *Nanosyst.: Phys. Chem. Math.* **11**, 401–408 (2020). [10.17586/2220-8054-2020-11-4-401-407](https://doi.org/10.17586/2220-8054-2020-11-4-401-407)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-33. Potkina, M. N., **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Skyrmions in antiferromagnets: Thermal stability and the effect of external field and impurities. *J. Appl. Phys.* **127**, 213906 (2020). [10.1063/5.0009559](https://doi.org/10.1063/5.0009559)
+1.  Potkina, M. N., **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Skyrmions in antiferromagnets: Thermal stability and the effect of external field and impurities. *J. Appl. Phys.* **127**, 213906 (2020). [10.1063/5.0009559](https://doi.org/10.1063/5.0009559)
 [WoS, Scopus; IF 2.60, SJR 0.649, Q2]
 
-34. Uzdin, V. M., Potkina, M. N., **Lobanov, I. S.**, Bessarab, P. F., Jónsson, H. The effect of confinement and defects on the thermal stability of skyrmions. *Physica B* **549**, 6–9 (2018).
+1.  Uzdin, V. M., Potkina, M. N., **Lobanov, I. S.**, Bessarab, P. F., Jónsson, H. The effect of confinement and defects on the thermal stability of skyrmions. *Physica B* **549**, 6–9 (2018).
 [10.1016/j.physb.2017.09.040](https://doi.org/10.1016/j.physb.2017.09.040)
 [WoS, Scopus; IF 2.1, SJR 0.37, Q3]
 
-35. Denisov, K., Rozhansky, I. V., Potkina, M. N., **Lobanov, I. S.**, Lähderanta, E., Uzdin, V. M. Topological Hall effect for electron scattering on nanoscale skyrmions in external magnetic field. *Phys. Rev. B* **98**, 214407 (2018). [10.1103/PhysRevB.98.214407](https://doi.org/10.1103/PhysRevB.98.214407)
+1.  Denisov, K., Rozhansky, I. V., Potkina, M. N., **Lobanov, I. S.**, Lähderanta, E., Uzdin, V. M. Topological Hall effect for electron scattering on nanoscale skyrmions in external magnetic field. *Phys. Rev. B* **98**, 214407 (2018). [10.1103/PhysRevB.98.214407](https://doi.org/10.1103/PhysRevB.98.214407)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-36. Bessarab, P. F., Muller, G. P., **Lobanov, I. S.**, Rybakov, F. N., Kiselev, N. S., Jónsson, H., Uzdin, V. M., Blügel, S., Bergqvist, L., Delin, A. Lifetime of racetrack skyrmions. *Sci. Rep.* **8**, 3433 (2018).
+1.  Bessarab, P. F., Muller, G. P., **Lobanov, I. S.**, Rybakov, F. N., Kiselev, N. S., Jónsson, H., Uzdin, V. M., Blügel, S., Bergqvist, L., Delin, A. Lifetime of racetrack skyrmions. *Sci. Rep.* **8**, 3433 (2018).
 [10.1038/s41598-018-21623-3](https://doi.org/10.1038/s41598-018-21623-3)
 [WoS, Scopus; IF 4.6, SJR 1.105, Q1]
 
-37. Uzdin, V. M., Potkina, M. N., **Lobanov, I. S.**, Bessarab, P. F., Jónsson, H. Energy surface and lifetime of magnetic skyrmions. *J. Magn. Magn. Mater.* **459**, 236–240 (2018).
+1.  Uzdin, V. M., Potkina, M. N., **Lobanov, I. S.**, Bessarab, P. F., Jónsson, H. Energy surface and lifetime of magnetic skyrmions. *J. Magn. Magn. Mater.* **459**, 236–240 (2018).
 [10.1016/j.jmmm.2017.10.100](https://doi.org/10.1016/j.jmmm.2017.10.100)
 [WoS, Scopus; IF 2.58, SJR 0.522, Q2]
 
-38. Grachev, P., **Lobanov, I. S.**, Smetannikov, I., Filchenkov, A. Neural network for synthesizing deterministic finite automata. *Proc. Comput. Sci.* **119**, 73–82 (2017).
+1.  Grachev, P., **Lobanov, I. S.**, Smetannikov, I., Filchenkov, A. Neural network for synthesizing deterministic finite automata. *Proc. Comput. Sci.* **119**, 73–82 (2017). [10.1016/j.procs.2017.11.162](https://doi.org/10.1016/j.procs.2017.11.162)
 [WoS, Scopus; IF 2.1, SJR 0.31, Q3]
 
-39. **Lobanov, I. S.**, Potkina, M. N., Jónsson, H., Uzdin, V. M. Truncated minimum energy path method for finding first-order saddle points. *Nanosyst.: Phys. Chem. Math.* **8**, 586–595 (2017).
+1.  **Lobanov, I. S.**, Potkina, M. N., Jónsson, H., Uzdin, V. M. Truncated minimum energy path method for finding first-order saddle points. *Nanosyst.: Phys. Chem. Math.* **8**, 586–595 (2017). [10.17586/22208054201785586595](https://doi.org/10.17586/22208054201785586595)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-40. Liashko, S. Y., **Lobanov, I. S.**, Uzdin, V. M., Jónsson, H. Thermal stability of magnetic states in submicron magnetic islands. *Nanosyst.: Phys. Chem. Math.* **8**, 572–578 (2017).
+1.  Liashko, S. Y., **Lobanov, I. S.**, Uzdin, V. M., Jónsson, H. Thermal stability of magnetic states in submicron magnetic islands. *Nanosyst.: Phys. Chem. Math.* **8**, 572–578 (2017). [10.17586/22208054201785572578](https://doi.org/10.17586/22208054201785572578)
 [WoS, Scopus; IF 0.84, SJR 0.22, Q4]
 
-41. **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Mechanism and activation energy of magnetic skyrmion annihilation obtained from minimum energy path calculations. *Phys. Rev. B* **94**, 174418 (2016).
+1.  **Lobanov, I. S.**, Jónsson, H., Uzdin, V. M. Mechanism and activation energy of magnetic skyrmion annihilation obtained from minimum energy path calculations. *Phys. Rev. B* **94**, 174418 (2016).
 [10.1103/PhysRevB.94.174418](https://doi.org/10.1103/PhysRevB.94.174418)
 [WoS, Scopus; IF 3.9, SJR 1.468, Q1]
 
-42. Popov, I. Y., **Lobanov, I. S.**, Popov, S. I., Popov, A. I., Gerya, T. V. Practical analytical solutions for benchmarking of 2-D and 3-D geodynamic Stokes problems with variable viscosity. *Solid Earth* **5**, 461–476 (2014).
+1.  Popov, I. Y., **Lobanov, I. S.**, Popov, S. I., Popov, A. I., Gerya, T. V. Practical analytical solutions for benchmarking of 2-D and 3-D geodynamic Stokes problems with variable viscosity. *Solid Earth* **5**, 461–476 (2014). [10.5194/se-5-461-2014](https://doi.org/10.5194/se-5-461-2014)
 [WoS, Scopus; IF 2.65, SJR 0.758, Q2]
 
-43. **Lobanov, I. S.**, Popov, I. Y., Popov, A. I., Gerya, T. V. Numerical approach to the Stokes problem with high contrasts in viscosity. *Appl. Math. Comput.* **235**, 17–25 (2014).
+1.  **Lobanov, I. S.**, Popov, I. Y., Popov, A. I., Gerya, T. V. Numerical approach to the Stokes problem with high contrasts in viscosity. *Appl. Math. Comput.* **235**, 17–25 (2014). [10.1016/j.amc.2014.02.084](https://doi.org/10.1016/j.amc.2014.02.084)
 [WoS, Scopus; IF 2.32, SJR 0.825, Q1]
 
-44. Golubok, A. O., Mukhin, I. S., Popov, I. Y., **Lobanov, I. S.** Creation and study of 2D and 3D carbon nanographs. *Physica E* **44**, 976–980 (2012).
+1.  Golubok, A. O., Mukhin, I. S., Popov, I. Y., **Lobanov, I. S.** Creation and study of 2D and 3D carbon nanographs. *Physica E* **44**, 976–980 (2012). [10.1016/j.physe.2010.10.013](https://doi.org/10.1016/j.physe.2010.10.013)
 [WoS, Scopus; IF 2.52, SJR 0.507, Q2]
 
-45. **Lobanov, I. S.**, Popov, I. Y. A remark on Schatten–von Neumann properties of resolvent differences of generalized Robin Laplacians on bounded domains. *J. Math. Anal. Appl.* **371**, 750–758 (2010).
+1.  **Lobanov, I. S.**, Popov, I. Y. A remark on Schatten–von Neumann properties of resolvent differences of generalized Robin Laplacians on bounded domains. *J. Math. Anal. Appl.* **371**, 750–758 (2010). [10.1016/j.jmaa.2010.06.006](https://doi.org/10.1016/j.jmaa.2010.06.006)
 [WoS, Scopus; IF 1.15, SJR 0.65, Q2]
 
-46. **Lobanov, I. S.**, Lotoreichik, V. Y., Popov, I. Y. Lower bound for the spectrum of 2D Schrödinger operator with delta-potential supported on a curve. *Theor. Math. Phys.* **162**, 397–407 (2010).
+1.  **Lobanov, I. S.**, Lotoreichik, V. Y., Popov, I. Y. Lower bound on the spectrum of the two-dimensional Schrödinger operator with a δ-perturbation on a curve. *Theor. Math. Phys.* **162**, 397–407 (2010). [10.1007/s11232-010-0025-3](https://doi.org/10.1007/s11232-010-0025-3)
 [WoS, Scopus; IF 0.9, SJR 0.22, Q4]
 
-47. Lotoreichik, V. Y., **Lobanov, I. S.**, Popov, I. Y., Behrndt, J. Counting eigenvalues of Schrödinger operator with delta-potential supported by loop. In *Proc. Int. Conf. Days on Diffraction (DD 2009)*, 140–143 (2009).
+1.  Lotoreichik, V. Y., **Lobanov, I. S.**, Popov, I. Y., Behrndt, J. Counting eigenvalues of Schrödinger operator with delta-potential supported by loop. In *Proc. Int. Conf. Days on Diffraction (DD 2009)*, 140–143 (2009). 
 [WoS, Scopus]
 
-48. Korotyaev, E., **Lobanov, I. S.** Schrödinger operators on zigzag graphs. *Ann. Henri Poincaré* **8**, 1424–1437 (2007).
+1.  Korotyaev, E., **Lobanov, I. S.** Schrödinger operators on zigzag graphs. *Ann. Henri Poincaré* **8**, 1424–1437 (2007).
 [10.1007/s00023-007-0331-y](https://doi.org/10.1007/s00023-007-0331-y)
 [WoS, Scopus; IF 1.43, SJR 0.81, Q2]
 
-49. Brüning, J., **Lobanov, I. S.**, Geiler, V. A. Spectral properties of a short-range impurity in a quantum dot. *J. Math. Phys.* **45**, 1267–1290 (2004).
+1.  Brüning, J., **Lobanov, I. S.**, Geiler, V. A. Spectral properties of a short-range impurity in a quantum dot. *J. Math. Phys.* **45**, 1267–1290 (2004).
 [10.1063/1.1647693](https://doi.org/10.1063/1.1647693)
 [WoS, Scopus; IF 1.30, SJR 0.64, Q2]
 
-50. Brüning, J., **Lobanov, I. S.**, Geiler, V. A. Spectral properties of Schrödinger operators on decorated graphs. *Math. Notes* **77**, 858–861 (2005).
+1.  Brüning, J., **Lobanov, I. S.**, Geiler, V. A. Spectral properties of Schrödinger operators on decorated graphs. *Math. Notes* **77**, 858–861 (2005).
 [WoS, Scopus; IF 0.86, SJR 0.22, Q4]
 
 ## Other Publications (non-Web of Science)
